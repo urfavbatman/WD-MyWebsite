@@ -83,14 +83,15 @@ Guiding Question:
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Database Management
+- Dealer Locator
+- Product Pages
+- Technology Showcases
 
 ### Technology
 <!-- TODO: List of Technology Used -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
 ## Rules and Principles
@@ -99,7 +100,7 @@ Guiding Question:
 3. File Structure to follow
 
 ```
-WD-ProjectName
+WD-MyWebsite
 └─ assets
 |   └─ css
 |   |   └─ style.css
@@ -126,4 +127,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Yamaha R1 Official Website | Provides detailed information about the Yamaha R1 models, specifications, features, and latest updates. | yamahamotorsports.com/supersport/models/yzf-r1 |
+| Yamaha R1 Owner's Manual | Offers comprehensive guidance on operating, maintaining, and servicing the Yamaha R1 motorcycle. | yamahamotorsports.com/assets/documents/product/f4f690c5-0d0d-4c56-9282-4f61570d5f1e.pdf |
+| R1 Forum | Online community forum for Yamaha R1 enthusiasts to discuss technical issues, modifications, riding tips, and events. | r1-forum.com |
+| Yamaha Authorized Dealers | Locator tool to find nearby Yamaha dealerships offering sales, service, and support for the R1 motorcycle. | yamahamotorsports.com/dealer-locator |
